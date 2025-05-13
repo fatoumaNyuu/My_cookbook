@@ -15,9 +15,11 @@ namespace My_cookbook.Services
 
         internal void RenderMenu()
         {
+            bool invalidInput = false;
+
             while (_running)
-            { 
-                //Console.Clear();
+            {
+                Console.Clear();
                 Console.WriteLine("\n--- My cookbook ---");
                 Console.WriteLine("[1] Add recipe");
                 Console.WriteLine("[2] Show recipe");
@@ -25,6 +27,11 @@ namespace My_cookbook.Services
                 Console.WriteLine("[4] Delete recipe");
                 Console.WriteLine("[0] Quit");
                 Console.Write("Your selection: ");
+
+                if (invalidInput) 
+                {
+                    Console.Write("invalid input, only numbers 0-4 are allowed.\nYour selection: ");
+                }
 
                 switch (Console.ReadLine())
                 {
@@ -44,11 +51,12 @@ namespace My_cookbook.Services
                         _running = false;
                         break;
                     default:
-                        Console.WriteLine("invalid input");
+                        invalidInput = true;
                         break;
                 }
             }
-            Console.WriteLine("Exit application.");
+            Console.WriteLine("\nExiting application...");
+            Thread.Sleep(2000);
         }
     }
 }
