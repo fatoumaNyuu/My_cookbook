@@ -13,3 +13,4 @@ C:\Users\fatouma\source\repos\My_cookbook\My_cookbook\obj\Debug\net9.0\refint\My
 C:\Users\fatouma\source\repos\My_cookbook\My_cookbook\obj\Debug\net9.0\My_cookbook.pdb
 C:\Users\fatouma\source\repos\My_cookbook\My_cookbook\obj\Debug\net9.0\My_cookbook.genruntimeconfig.cache
 C:\Users\fatouma\source\repos\My_cookbook\My_cookbook\obj\Debug\net9.0\ref\My_cookbook.dll
+C:\Users\fatouma\source\repos\My_cookbook\My_cookbook\bin\Debug\net9.0\Data\recipe.json

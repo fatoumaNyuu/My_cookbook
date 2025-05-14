@@ -5,7 +5,7 @@ namespace My_cookbook.Storage
 {
     internal static class StorageService
     {
-        private static string _storagePath = "recipe_storage.json";
+        private static string _storagePath = "Data/recipe.json";
 
         static StorageService()
         {
