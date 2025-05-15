@@ -1,4 +1,5 @@
 ﻿
+using My_cookbook.Utilities;
 using System.Data;
 
 namespace My_cookbook.Services
@@ -20,14 +21,14 @@ namespace My_cookbook.Services
             while (_running)
             {
                 Console.Clear();
-                Console.WriteLine("\n--- My cookbook ---");
+                Console.WriteLine($"{Headline.Header}\n");
                 Console.WriteLine("[1] Add recipe");
                 Console.WriteLine("[2] Show recipe");
                 Console.WriteLine("[3] Edit recipe");
                 Console.WriteLine("[4] Delete recipe");
                 Console.WriteLine("[0] Quit");
-                Console.Write("Your selection: ");
-
+                Console.Write("\nYour selection: ");
+                
                 if (invalidInput) 
                 {
                     Console.Write("invalid input, only numbers 0-4 are allowed.\nYour selection: ");

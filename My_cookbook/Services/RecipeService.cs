@@ -14,6 +14,7 @@ namespace My_cookbook.Services
         {
             var recipeModel = new RecipeModel(); // verbindet mein RecipeModel (Models) mit dem hier
 
+            Console.Clear();
             Console.Write("Recipe title: ");
             recipeModel.Name = Console.ReadLine();
 
@@ -49,7 +50,44 @@ namespace My_cookbook.Services
         }
         public void Show()
         {
+            Console.Clear();
+            if (!_recipes.Any()) 
+            {
+                Console.WriteLine("No recipes found.");
+                return;
+            }
 
+            Console.WriteLine("\n--- Recipes ---\n");
+            for (int i = 0; i < _recipes.Count; i++)
+            {
+                Console.WriteLine($"[{i}] {_recipes[i].Name}");  // Zeigt mir alle Rezepte zur Auswahl an
+            }
+
+            Console.Write("\nSelect recipe: ");
+            if (int.TryParse(Console.ReadLine(), out int index) && index >= 0 && index < _recipes.Count)
+            {
+                Console.Clear();
+                var recipe = _recipes[index];
+                Console.WriteLine($"\n--- {recipe.Name} ---\n");
+                Console.WriteLine($"Portion: {recipe.Portion}");
+                Console.WriteLine($"Calories: {recipe.Calories}");
+                Console.WriteLine($"Cooking Time: {recipe.CookingTime}");
+                Console.WriteLine("Ingredients:");
+                foreach (var ingredient in recipe.Ingredients)
+                {
+                    Console.WriteLine($"- {ingredient}");
+                }
+                Console.WriteLine($"Preparation: {recipe.Preparation}");
+                Console.WriteLine($"Instructions: {recipe.CookingInstuctions}");
+
+                Console.WriteLine("\nPress any key to return to main menu...");
+                Console.ReadKey(true); // wartet auf beliebige Taste
+            }
+            else
+            {
+                Console.WriteLine("\n\n\nInvalid selection.\nreturning to main menu...");
+                Thread.Sleep(2000);
+            }
         }
         public void Update() 
         {
