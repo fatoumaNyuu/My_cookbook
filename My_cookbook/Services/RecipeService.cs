@@ -18,13 +18,16 @@ namespace My_cookbook.Services
             recipeModel.Name = Console.ReadLine();
 
             Console.Write("Portions: ");
-            recipeModel.Portion = int.Parse(Console.ReadLine() ?? "0"); // DAU-Sicher machen / Absturzsicher
+            int.TryParse(Console.ReadLine(), out int portion); // keine Eingabe und Buchstaben = 0
+            recipeModel.Portion = portion;
 
             Console.Write("Calories: ");
-            recipeModel.Calories = int.Parse(Console.ReadLine() ?? "0"); // DAU-Sicher machen / Absturzsicher
+            int.TryParse(Console.ReadLine(), out int calories); // keine Eingabe und Buchstaben = 0
+            recipeModel.Calories = calories;
 
             Console.Write("Cooking Time: ");
-            recipeModel.CookingTime = int.Parse(Console.ReadLine() ?? "0"); // DAU-Sicher machen / Absturzsicher
+            int.TryParse(Console.ReadLine(), out int cookingTime); // keine Eingabe und Buchstaben = 0
+            recipeModel.CookingTime = cookingTime;
 
             Console.WriteLine("Ingredients (one ingredient per line, leave line empty to quit):");
             while (true) 
