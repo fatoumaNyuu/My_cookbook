@@ -1,8 +1,7 @@
-﻿
-using My_cookbook.Utilities;
+﻿using My_cookbook.Services;
 using System.Data;
 
-namespace My_cookbook.Services
+namespace My_cookbook.Utilities
 {
     internal class MainMenu
     {
@@ -21,7 +20,7 @@ namespace My_cookbook.Services
             while (_running)
             {
                 Console.Clear();
-                Console.WriteLine($"{Headline.Header}\n");
+                Console.WriteLine($"{Headline.HeaderMain}\n");
                 Console.WriteLine("[1] Add recipe");
                 Console.WriteLine("[2] Show recipe");
                 Console.WriteLine("[3] Edit recipe");
