@@ -18,7 +18,7 @@ namespace My_cookbook.Storage
         public static List<RecipeModel> Load()
         {
             var data = File.ReadAllText(_storagePath);
-            return JsonSerializer.Deserialize<List<RecipeModel>>(data) ?? new List<RecipeModel>(); // Serialisierung, falls keine Liste vorhanden ist, wird neuee angelegt!
+            return JsonSerializer.Deserialize<List<RecipeModel>>(data) ?? new List<RecipeModel>(); // Serialisierung, falls keine Liste vorhanden ist, wird neue angelegt!
         }
 
         public static void Save(List<RecipeModel> recipeList)

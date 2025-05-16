@@ -7,28 +7,40 @@
       "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\utilities\\headline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|c:\\users\\fatouma\\source\\repos\\my_cookbook\\my_cookbook\\services\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\services\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|c:\\users\\fatouma\\source\\repos\\my_cookbook\\my_cookbook\\utilities\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\utilities\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|c:\\users\\fatouma\\source\\repos\\my_cookbook\\my_cookbook\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|c:\\users\\fatouma\\source\\repos\\my_cookbook\\my_cookbook\\models\\recipemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\models\\recipemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|c:\\users\\fatouma\\source\\repos\\my_cookbook\\my_cookbook\\data\\recipe.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\data\\recipe.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|c:\\users\\fatouma\\source\\repos\\my_cookbook\\my_cookbook\\recipeservice\\recipeadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\recipeservice\\recipeadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|c:\\users\\fatouma\\source\\repos\\my_cookbook\\my_cookbook\\storage\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\storage\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|c:\\users\\fatouma\\source\\repos\\my_cookbook\\my_cookbook\\recipeservice\\irecipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\recipeservice\\irecipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|c:\\users\\fatouma\\source\\repos\\my_cookbook\\my_cookbook\\recipeservice\\recipeshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\recipeservice\\recipeshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|c:\\users\\fatouma\\source\\repos\\my_cookbook\\my_cookbook\\recipeservice\\recipeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\recipeservice\\recipeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|c:\\users\\fatouma\\source\\repos\\my_cookbook\\my_cookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|c:\\users\\fatouma\\source\\repos\\my_cookbook\\my_cookbook\\models\\recipemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\models\\recipemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|c:\\users\\fatouma\\source\\repos\\my_cookbook\\my_cookbook\\recipeservice\\recipedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E26136-73E0-45DC-9FAB-1BD5D1751F64}|My_cookbook\\My_cookbook.csproj|solutionrelative:my_cookbook\\recipeservice\\recipedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,33 +49,50 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 233,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 239,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Headline.cs",
-              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Utilities\\Headline.cs",
-              "RelativeDocumentMoniker": "My_cookbook\\Utilities\\Headline.cs",
-              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Utilities\\Headline.cs",
-              "RelativeToolTip": "My_cookbook\\Utilities\\Headline.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Utilities\\MainMenu.cs",
+              "RelativeDocumentMoniker": "My_cookbook\\Utilities\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Utilities\\MainMenu.cs",
+              "RelativeToolTip": "My_cookbook\\Utilities\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T09:55:18.173Z",
+              "WhenOpened": "2025-05-15T16:05:56.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Program.cs",
-              "RelativeDocumentMoniker": "My_cookbook\\Program.cs",
-              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Program.cs",
-              "RelativeToolTip": "My_cookbook\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Title": "IRecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\RecipeService\\IRecipeService.cs",
+              "RelativeDocumentMoniker": "My_cookbook\\RecipeService\\IRecipeService.cs",
+              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\RecipeService\\IRecipeService.cs",
+              "RelativeToolTip": "My_cookbook\\RecipeService\\IRecipeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T09:01:11.221Z",
+              "WhenOpened": "2025-05-16T08:44:40.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipeModel.cs",
+              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Models\\RecipeModel.cs",
+              "RelativeDocumentMoniker": "My_cookbook\\Models\\RecipeModel.cs",
+              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Models\\RecipeModel.cs",
+              "RelativeToolTip": "My_cookbook\\Models\\RecipeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:43:24.786Z",
               "EditorCaption": ""
             },
             {
@@ -74,67 +103,87 @@
               "RelativeDocumentMoniker": "My_cookbook\\Storage\\StorageService.cs",
               "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Storage\\StorageService.cs",
               "RelativeToolTip": "My_cookbook\\Storage\\StorageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T12:59:22.162Z",
+              "WhenOpened": "2025-05-16T08:44:24.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Headline.cs",
+              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Utilities\\Headline.cs",
+              "RelativeDocumentMoniker": "My_cookbook\\Utilities\\Headline.cs",
+              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Utilities\\Headline.cs",
+              "RelativeToolTip": "My_cookbook\\Utilities\\Headline.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:01:32.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Program.cs",
+              "RelativeDocumentMoniker": "My_cookbook\\Program.cs",
+              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Program.cs",
+              "RelativeToolTip": "My_cookbook\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:43:42.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "recipe.json",
-              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Data\\recipe.json",
-              "RelativeDocumentMoniker": "My_cookbook\\Data\\recipe.json",
-              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Data\\recipe.json",
-              "RelativeToolTip": "My_cookbook\\Data\\recipe.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-15T08:41:43.56Z",
+              "Title": "RecipeAdd.cs",
+              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\RecipeService\\RecipeAdd.cs",
+              "RelativeDocumentMoniker": "My_cookbook\\RecipeService\\RecipeAdd.cs",
+              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\RecipeService\\RecipeAdd.cs",
+              "RelativeToolTip": "My_cookbook\\RecipeService\\RecipeAdd.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:21:15.121Z",
               "EditorCaption": ""
             },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RecipeService.cs",
-              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Services\\RecipeService.cs",
-              "RelativeDocumentMoniker": "My_cookbook\\Services\\RecipeService.cs",
-              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Services\\RecipeService.cs",
-              "RelativeToolTip": "My_cookbook\\Services\\RecipeService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwFIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:14:35.797Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 167,
-          "SelectedChildIndex": 1,
-          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RecipeModel.cs",
-              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Models\\RecipeModel.cs",
-              "RelativeDocumentMoniker": "My_cookbook\\Models\\RecipeModel.cs",
-              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Models\\RecipeModel.cs",
-              "RelativeToolTip": "My_cookbook\\Models\\RecipeModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "RecipeShow.cs",
+              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\RecipeService\\RecipeShow.cs",
+              "RelativeDocumentMoniker": "My_cookbook\\RecipeService\\RecipeShow.cs",
+              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\RecipeService\\RecipeShow.cs",
+              "RelativeToolTip": "My_cookbook\\RecipeService\\RecipeShow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T13:06:58.754Z",
+              "WhenOpened": "2025-05-15T15:25:07.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Services\\MainMenu.cs",
-              "RelativeDocumentMoniker": "My_cookbook\\Services\\MainMenu.cs",
-              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\Services\\MainMenu.cs",
-              "RelativeToolTip": "My_cookbook\\Services\\MainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "RecipeUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\RecipeService\\RecipeUpdate.cs",
+              "RelativeDocumentMoniker": "My_cookbook\\RecipeService\\RecipeUpdate.cs",
+              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\RecipeService\\RecipeUpdate.cs",
+              "RelativeToolTip": "My_cookbook\\RecipeService\\RecipeUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:55:42.355Z",
+              "WhenOpened": "2025-05-15T15:25:59.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecipeDelete.cs",
+              "DocumentMoniker": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\RecipeService\\RecipeDelete.cs",
+              "RelativeDocumentMoniker": "My_cookbook\\RecipeService\\RecipeDelete.cs",
+              "ToolTip": "C:\\Users\\fatouma\\source\\repos\\My_cookbook\\My_cookbook\\RecipeService\\RecipeDelete.cs",
+              "RelativeToolTip": "My_cookbook\\RecipeService\\RecipeDelete.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:27:00.791Z",
               "EditorCaption": ""
             }
           ]
